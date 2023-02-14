@@ -2,7 +2,7 @@
 
 g0v
 
-The g0v movement, or g0v, (pronounced gov-zero /ɡʌvziroʊ/) is an open source, open government collaboration started in late 2012 in Taiwan.[1][2][3]
+The g0v movement, or g0v, (pronounced gov-zero /ɡʌvziroʊ/) is an open source, open government collaboration started in late 2012 in Taiwan.
 
 this is a fork of g0v.tw
 
